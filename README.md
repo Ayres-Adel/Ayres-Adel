@@ -10,8 +10,10 @@
 </div>
 
 <h1 align="center">🏆 GitHub Trophies</h1>
-
+<div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=Ayres-Adel&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
 <div align="center">
@@ -46,7 +48,10 @@
 <h1 align="center">💫 About Me:</h1>
 
 <p align="center">💎A man in mission💎</p>
+<div align="center">
 ---------------------------------------------------------------------------------------------------------------------------------
+</div>
+
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Ayres-Adel&icon=1&color=1)](https://visitcount.itsvg.in)
