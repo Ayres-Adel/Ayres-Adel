@@ -25,7 +25,10 @@
 <h1 align="center">🌐 Socials</h1>
 <div align="center">
   
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/b9Mpbeab) 
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x_ayres_x) 
+
 </div>
 
 
@@ -58,4 +61,3 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
