@@ -47,7 +47,7 @@
 
 <h1 align="center">💫 About Me:</h1>
 
-<p align="center">💎A man in mission💎</p>
+<p align="center">💎A man in a mission💎</p>
 <div align="center">
 ---------------------------------------------------------------------------------------------------------------------------------
 </div>
