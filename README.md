@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi, I'm Ayres 👋</h1>
 <div align="center">
   💎A Frontend  Developer From Algeria💎
@@ -58,6 +61,8 @@
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=Ayres-Adel&icon=1&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Ayres-Adel&color=blue)
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
