@@ -56,7 +56,7 @@
 <p align="center">💎A man in a mission💎</p>
 <center></center>
 <p align="center">
-  <a href="my-portfolio-psi-five-78.vercel.app">Visit My Portfolio</a>
+  <a href="https://my-portfolio-psi-five-78.vercel.app/">Visit My Portfolio</a>
 </p>
 
 <div align="center">
